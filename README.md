@@ -1,16 +1,7 @@
-# week_7_2019
+# Flutter Splash Tap
 
-A project making the challenge of the week 7 on 2019
+This is a little project making the weekly challenge with Fluttter.
 
-## Getting Started
+This week the challenge was an animation on tap making a splash of a border that open and disappear progressively. The example for this challenge was taken from the [video](https://www.youtube.com/watch?v=7qkhpeZdD7U) created by "Fun with Flutter".
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+You can check all the required code on [splash.dart](lib/splash.dart)
